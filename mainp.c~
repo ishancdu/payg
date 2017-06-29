@@ -27,8 +27,6 @@
 #include <libopencm3/stm32/usart.h>
 #include <libopencm3/stm32/pwr.h>
 
-#define version 1.0.1
-
 #define one 200
 #define two 220
 #define three 252
